@@ -17,7 +17,7 @@
     "@fullcalendar/timegrid": "^4.3.0",
     "@fullcalendar/vue": "4.3.1",
     "@tweenjs/tween.js": "18.4.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chartist": "0.11.4",
     "es6-promise": "4.2.8",
     "fuse.js": "3.4.6",
